@@ -3,3 +3,4 @@ month is december
 year is 2020
 the year was forgettable
 training is in LnT
+sunday is a holiday
