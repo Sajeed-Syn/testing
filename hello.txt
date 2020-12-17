@@ -1,3 +1,11 @@
+
+today is wednesday
+month is december
+year is 2020
+the year was forgettable
+training is in LnT
+sunday is a holiday
+=======
 today is thursday
 month is december
 year is 2020
