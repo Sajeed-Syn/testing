@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 today is wednesday
 month is december
 year is 2020
 the year was forgettable
 training is in LnT
 sunday is a holiday
+=======
+today is thursday
+month is december
+year is 2020
+find the astrologer who said 2020 is good year
+Sunday is a holiday
+>>>>>>> 3d190b2e89e4afc85f8fa25c10bcd5a60ae94778
